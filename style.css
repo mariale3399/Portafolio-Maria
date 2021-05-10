@@ -1,7 +1,12 @@
-body{
+.nav-logo{
+  background-color: black;
+
+}
+
+.body{
   font-family: 'Montserrat', sans-serif;
 }
 
-h1,h1{
+.h4{
   font-family: 'Montserrat', sans-serif;
 }
